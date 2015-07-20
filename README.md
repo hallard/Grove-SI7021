@@ -3,9 +3,12 @@ Grove SI7021 Temperature and Humidity Sensor
 
 Boards made for testing and validate Ultra Low Power node boards you can connect grove connector to make it original "grove" or header pin to make it for breadboarding.
 
+- The SI7021 pads have been resized to be easily hand soldered with an iron soldering.
+- You can enable/disable the pullup with a solder pad
+
 ##Detailed Description
 
-Everything about ULPNode is located [here][1] on my blog
+Everything about ULPNode used with this board is located [here][1] on my blog
 
 ##Schematics
 ![schematics](https://raw.githubusercontent.com/hallard/Grove-SI7021/master/Grove-SI7021-sch.png)  
