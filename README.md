@@ -19,8 +19,8 @@ Everything about ULPNode is located [here][1] on my blog
 There are lot of library to drive this one, the Sparkfun's [one][3] works fine
 
 ##Assembled
-When all is fine, display temperature and Resistor value (reference also)    
-<img src="https://raw.githubusercontent.com/hallard/Grove-SI7021/master/pictures/Grove-SI7021.jpg" alt="No breakout board connected" width="30%" height="30%">
+Picture of assembled boards
+<img src="https://raw.githubusercontent.com/hallard/Grove-SI7021/master/Grove-SI7021.jpg" alt="Assembled boards" width="30%" height="30%">
 
 ##Misc
 See news and other projects on my [blog][2] 
